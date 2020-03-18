@@ -1,0 +1,523 @@
+
+				
+		
+		
+								
+					body{
+						 color: #000000; 			 font-size: 18px; 			font-weight: 400;			}
+							body,
+				.wrapper,
+				.content,
+				.full_width,
+				.overlapping_content .content > .container,
+				.more_facts_holder,
+				.comment_holder .comment #respond textarea,
+				.comment_holder .comment #respond input[type='text'],
+				.comment_holder .comment #respond input[type='email'],
+				.content .container
+				{
+				background-color:#ffffff;
+				}
+				.angled-section polygon{
+				fill: #ffffff;
+				}
+				
+											
+		
+					.projects_holder article .portfolio_description,
+			.blog_holder.masonry article .post_text .post_text_inner,
+			.blog_holder.masonry_full_width article .post_text .post_text_inner,
+			.q_team,
+			.price_table_inner,
+			.latest_post_holder.boxes > ul > li,
+			.q_counter_holder.boxed_counter {
+			background-color: #ffffff;
+			}
+		
+					.header_bottom,
+			.header_top,
+			.fixed_top_header .bottom_header{
+			background-color: rgba(255,255,255,0);
+			}
+
+			
+				.header_bottom,
+				.header_top,
+				.fixed_top_header .bottom_header{
+				border-bottom: 0;
+				}
+
+				.header_bottom,
+				.fixed_top_header .bottom_header{
+				box-shadow: none;
+				}
+
+				.header_top .right .inner > div:first-child,
+				.header_top .right .inner > div,
+				.header_top .left .inner > div:last-child,
+				.header_top .left .inner > div {
+				border: none;
+				}
+
+			
+		
+																
+		
+
+
+					header.sticky .header_bottom{
+			background-color: rgba(255,255,255,1) !important;
+			}
+		
+		
+			.header_top,
+			.fixed_top_header .top_header,
+			.fixed_top_header nav.mobile_menu{
+			background-color: rgba(255,255,255,0);
+			}
+						
+		
+		
+		
+
+														.content{
+					margin-top: -80px;
+					}
+				
+					
+					.logo_wrapper,
+			.side_menu_button,
+			.shopping_cart_inner
+			{
+			height: 80px;
+			}
+			.content.content_top_margin{
+			margin-top: 80px !important;
+			}
+
+			header:not(.centered_logo) .header_fixed_right_area {
+			line-height: 80px;
+			}
+
+								
+					header.sticky .logo_wrapper,
+			header.sticky.centered_logo .logo_wrapper,
+			header.sticky .side_menu_button,
+			header.sticky .shopping_cart_inner
+			{
+			height: 80px !important;
+			}
+
+			header.sticky nav.main_menu > ul > li > a,
+			.light.sticky nav.main_menu > ul > li > a,
+			.light.sticky nav.main_menu > ul > li > a:hover,
+			.light.sticky nav.main_menu > ul > li.active > a,
+			.dark.sticky nav.main_menu > ul > li > a,
+			.dark.sticky nav.main_menu > ul > li > a:hover,
+			.dark.sticky nav.main_menu > ul > li.active > a {
+			line-height: 80px;
+			}
+		
+		
+		
+						header.fixed_hiding .q_logo a,
+				header.fixed_hiding .q_logo{
+				max-height: 37px;
+				}
+				
+		
+		
+		
+							nav.main_menu > ul > li > a{
+			line-height: 80px;
+			}
+		
+		
+		
+					nav.main_menu > ul > li > a{
+			 color: #011808; 							font-family: 'Roboto Condensed', sans-serif;
+						 font-size: 14px; 						 font-style: normal; 			 font-weight: 700; 									}
+
+		
+		
+					nav.main_menu ul li:hover a {
+			 color: #011808; 			}
+		
+					nav.main_menu ul li.active a {
+			color: #011808			}
+			
+		
+
+		
+
+																		
+
+						
+		
+		
+		
+		
+		
+				
+						
+		
+		
+		
+					h1,
+			.h1,
+			.title h1,
+            body.qode-overridden-elementors-fonts .elementor-widget-heading h1.elementor-heading-title{
+				color: #000000; 							font-family: 'Roboto Condensed', sans-serif;
+						font-size: 40px; 			line-height: 50px; 			font-style: normal; 			font-weight: 700; 			letter-spacing: 1px; 						}
+				
+		
+											h2,
+			.h2,
+			h2 a,
+            body.qode-overridden-elementors-fonts .elementor-widget-heading h2.elementor-heading-title {
+										font-family: 'Roboto Condensed', sans-serif;
+						font-size: 25px; 			line-height: 35px; 			font-style: normal; 			font-weight: 700; 			letter-spacing: 1px; 			text-transform: none; 			}
+										
+
+					p,
+            body.qode-overridden-elementors-fonts .elementor-widget-heading p.elementor-heading-title {
+			color: #000000;							font-family: 'Roboto Condensed', sans-serif;
+						font-size: 18px;			line-height: 28px;			font-style: normal;			font-weight: 400;									}
+			.filter_holder ul li span,
+			blockquote h5,
+			.q_social_icon_holder .simple_social,
+			.header-widget.widget_nav_menu ul.menu li a,
+			.side_menu a,
+			.side_menu li,
+			.side_menu span,
+			.side_menu p,
+			.side_menu .widget.widget_rss li a.rsswidget,
+			.side_menu #wp-calendar caption,
+			.side_menu #wp-calendar th,
+			.side_menu #wp-calendar td,
+			aside .widget #lang_sel_list li a,
+			aside .widget #lang_sel li a,
+			aside .widget #lang_sel_click li a,
+			.wpb_widgetised_column .widget #lang_sel_list li a,
+			.wpb_widgetised_column .widget #lang_sel li a,
+			.wpb_widgetised_column .widget #lang_sel_click li a,
+            .elementor-widget.elementor-widget-sidebar .widget #lang_sel_list li a,
+            .elementor-widget.elementor-widget-sidebar .widget #lang_sel li a,
+            .elementor-widget.elementor-widget-sidebar .widget #lang_sel_click li a,
+			section.side_menu #lang_sel_list li a,
+			section.side_menu #lang_sel li a,
+			section.side_menu #lang_sel_click li a,
+			footer #lang_sel_list li a,
+			footer #lang_sel li a,
+			footer #lang_sel_click li a,
+			footer #lang_sel_list.lang_sel_list_horizontal a,
+			footer #lang_sel_list.lang_sel_list_vertical a,
+			.side_menu #lang_sel_list.lang_sel_list_horizontal a,
+			.side_menu #lang_sel_list.lang_sel_list_vertical a,
+			#lang_sel_footer a{
+			color: #000000;			}
+			.header_top #lang_sel > ul > li > a,
+			.header_top #lang_sel_click > ul > li> a,
+			footer #lang_sel ul li a,
+			footer #lang_sel ul ul a,
+			footer #lang_sel_click ul li a,
+			footer #lang_sel_click ul ul a,
+			footer #lang_sel_click ul ul a span,
+			section.side_menu #lang_sel ul li a,
+			section.side_menu #lang_sel ul ul a,
+			section.side_menu #lang_sel ul ul a:visited,
+			section.side_menu #lang_sel_click > ul > li > a,
+			section.side_menu #lang_sel_click ul ul a,
+			section.side_menu #lang_sel_click ul ul a:visited{
+			color: #000000 !important;			}
+									
+
+		
+				
+				
+		
+		
+
+		
+		
+		
+										
+		
+		
+		
+						.google_map{
+				height: 750px;
+				}
+				
+		
+					.footer_top_holder,	footer #lang_sel > ul > li > a,	footer #lang_sel_click > ul > li > a{
+			background-color: #011808;
+			}
+			footer #lang_sel ul ul a,footer #lang_sel_click ul ul a,footer #lang_sel ul ul a:visited,footer #lang_sel_click ul ul a:visited{
+			background-color: #011808 !important;
+			}
+		
+		
+					.footer_top .column_inner > div h2,
+			.footer_top .column_inner > div h3,
+			.footer_top .column_inner > div h4,
+			.footer_top .column_inner > div h5,
+			.footer_top .column_inner > div h6 {
+			color:#ffffff;
+			}
+							.footer_top,
+			.footer_top p,
+			.footer_top span,
+			.footer_top li,
+			.footer_top .textwidget,
+			.footer_top .widget_recent_entries>ul>li>span {
+			color: #ffffff;
+			}
+						
+					.footer_top_holder{
+			background: url(http://riverpark.vinhomes-vincityquan9.top/wp-content/uploads/2020/03/footer-back-1.png) no-repeat;
+			background-size: cover;
+			}
+		
+		
+		
+		
+
+		
+					.footer_top h5 {
+			font-family: "Roboto Condensed", sans-serif;font-size: 35px;letter-spacing: 1px;font-weight: 700;color: #ffffff;font-style: normal			}
+		
+		
+		
+					.footer_top,
+			.footer_top .footer_col1,
+			.footer_top .container_inner > .widget,
+			.footer_top.footer_top_full > .widget{
+			text-align: center;
+			}
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+
+												
+										
+								
+								
+										
+										
+								
+								
+		
+														
+								
+								
+								
+				
+						
+						
+		/*Blog Masonry Gallery - end */
+
+								
+						
+						
+								
+												
+								
+
+		
+						
+				
+		
+
+		
+				
+
+										
+		
+
+												
+				
+				
+		
+								
+								
+								
+		
+																																																				
+				
+		
+		.vertical_menu_float .menu-item .second{
+		left: calc(100% + 30px); /*because of the padding*/
+		}
+
+		.vertical_menu_hidden aside.vertical_menu_area .vertical_menu_float .menu-item .second {
+		left: calc(100% + 40px);
+		}
+
+
+		
+		
+		
+		
+
+
+							.vertical_menu_area{
+			text-align:left;
+			}
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+																													.portfolio_main_holder .item_holder.thin_plus_only .thin_plus_only_icon {
+			font-family: 			}
+								
+		
+		
+				
+		
+		
+		
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+		
+		
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+
+		
+		
+
+		
+		
+		
+								
+		
+		
+				
+				
+				
+				
+										
+
+		
+		
+																
+
+						
+		
+
+		
+				    .masonry_gallery_item.square_big .masonry_gallery_item_inner .masonry_gallery_item_content{
+			text-align: center;		    }
+		
+		
+				    .masonry_gallery_item.square_small .masonry_gallery_item_inner .masonry_gallery_item_content{
+			text-align: center;		    }
+		
+		
+				    .masonry_gallery_item.rectangle_portrait .masonry_gallery_item_inner .masonry_gallery_item_content{
+			text-align: center;		    }
+		
+		
+				    .masonry_gallery_item.rectangle_landscape .masonry_gallery_item_inner .masonry_gallery_item_content{
+			text-align: center;		    }
+		
+
+	
+						
+		
+		
+
+				
+
+
